@@ -1,4 +1,5 @@
-# Mini-Projeto: Simulação de Jogo de Dados | Entrega (11/08 - Sexta-feira)
+# Mini-Projeto: Simulação de Jogo de Dados | Santander Coders 2023
+Professor: Matheus Barão Fiorin
 
 ## Objetivo
 
